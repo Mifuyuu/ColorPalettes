@@ -1,4 +1,4 @@
 {
-version: "0.0.2",
-info: "fix bug"
+"latest_version": "0.0.2",
+"info": "fix bug\n- Fixed issue with login\n- Improved performance\n- Updated UI"
 }
