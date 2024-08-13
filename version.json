@@ -1,4 +1,4 @@
 {
-"latest_version": "0.0.2",
-"info": "fix bug\n- Fixed issue with login\n- Improved performance\n- Updated UI"
+"latest_version": "0.0.3",
+"info": " + Added New Feature\n + Edited to support Java 8+"
 }
